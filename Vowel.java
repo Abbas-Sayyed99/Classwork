@@ -59,20 +59,20 @@ class Vowel
 				break;
 			}
 
-                case 'O':
+                	case 'O':
 			{
 				System.out.println("\t\t\tIt is vowel");
 				break;
 			}
 
-                case 'u':
+                	case 'u':
 			{
 				System.out.println("\t\t\tIt is vowel");
 				break;
 			}    
 			
 
-                case 'U':
+               		 case 'U':
 			{
 				System.out.println("\t\t\tIt is vowel");
 				break;
